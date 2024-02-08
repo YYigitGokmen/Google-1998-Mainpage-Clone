@@ -1,0 +1,324 @@
+
+/* çalışmamın sonunda farkettimki tek özellik için external class açmaya gerek yok, bu sayede oluşturduğum class sayısı minimize olabilir ve daha hızlı ve kolay kod yazabilirim */
+
+
+.fs-renk1 {
+
+    background-color: #7EE5DA;
+}
+
+.fs-renk2 {
+
+    background-color: #70CCC2;
+}
+
+.container {
+
+    margin-left: auto;
+    margin-right: auto;
+    width:1000px;
+    
+    }
+
+.en-alt-center {
+   
+    margin-left:  1020px;
+     margin-top: 125px;
+    
+}
+
+.ufak-ayar-son {
+margin-bottom: -15px;
+margin-top: 2px;
+}
+
+
+
+.xxx {
+    float: left;
+
+}
+
+
+
+
+
+.center {
+    text-align: center;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.fs-renk3 {
+
+    background-color: #62B3AA;
+}
+
+
+.pd-margin
+{
+    padding: 10px;
+    margin:100px ;
+
+}
+
+.button {
+
+    background-color: #eeeeee; 
+    border: 2px solid rgb(0, 0, 0); 
+    color: rgb(0, 0, 0); 
+    padding: 2px 10px; 
+    text-align: center; 
+    display: inline-block; 
+    font-size: 20px; 
+    margin: 10px 420px; 
+    cursor: pointer; 
+
+}
+
+
+
+.button2 {
+    margin-right: 5px;
+    float:left;
+    width: 175px;
+    font-size: 18px;
+  height: 26px;
+  border: 1px solid black;
+   margin-top: 5px; 
+   background-color: #eeeeee;
+   display: inline-block;
+   cursor: pointer; 
+   border-radius: 5px;
+   
+}
+
+
+
+.body{
+    margin: 0%;
+    padding: 0%;
+    margin-left: 6%;
+    margin-right:6%;
+}
+
+.font   {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:21px;
+
+
+}
+
+.box {
+    height: 150px;
+    width: 20%;
+    float: left;
+margin-right: 4px;
+
+}
+
+.googlesrc { 
+    margin-right: 6px;
+    float: left;
+    width: 125px;
+  height: 22px;
+  border: 1px solid black;
+   margin-top: 5px; 
+   background-color: #eeeeee;
+   border-radius: 5px;
+
+}
+
+.googlesrc2 { 
+
+    margin-right: 4px;
+    float: left;
+    width: 95px;
+  height: 20px;
+  border: 1px solid black;
+   margin-top: -20px; 
+   background-color: #eeeeee;
+   margin-top: 4px;
+
+}
+
+
+.fix {
+
+    overflow:hidden;
+}
+
+
+
+
+.arkaplanrenk {
+background-color: #eeeeee
+
+}
+
+.new {
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.ayar {
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+
+.ust-gri {
+
+    background-color: #eeeeee;
+    margin-left: auto;
+    margin-right: auto;
+    height: 85px;
+   
+}
+
+.border {
+    width: 450px;
+  height: 27px;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+   margin-top: 1px; 
+   background-color: white;
+}
+
+
+.border2 {
+    width: 260px;
+    height: 27px;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+     margin-top: -15px; 
+     background-color: white;
+     
+}
+
+.yatırma {
+
+    text-align: left;
+}
+
+
+
+.sol {
+    margin-left: 70px;
+
+}
+
+.container {
+
+    margin-left: auto; 
+    margin-right: auto;
+    width:1000px;
+    margin-top: 4px;
+    margin-left: 2px;
+
+    }
+
+.orta-kutu {
+    
+    width: 420px;
+    height: 100px;
+}
+
+.arc-ozel {
+
+    margin-right: 405px;
+}
+
+    
+.fs-17 {
+    font-size: 20px;
+    
+}
+
+
+
+
+
+.skt1 {
+
+    margin-top: 15px;
+    margin-bottom: -20px;
+    font-size: 21px;
+}
+
+.fs-20 {
+    font-size: 20px;
+    margin-bottom: 12px;
+   
+    
+}
+
+.skt2 {
+    font-size:20px;
+    margin-top:-14px
+    
+}
+
+.sktozel {
+    font-size:20px;
+    margin-top:-18px
+
+}
+
+
+
+
+    .skt3 {
+    font-size:20px;
+    margin-top:-23px
+    
+    }
+
+
+.sol-kutu {
+    
+    width: 800px;
+    height: 100px;
+    }
+
+.sag-kutu {width: 1023px;
+    height: 100px;
+
+}
+
+
+
+    .card {
+        width: 21%;
+        float: left;
+        padding: 2%;
+        background: #cfcaca;
+        margin: 2%;
+        
+        }
+
+
+        .content {
+            width: 3500px;
+           margin-top: 1px;
+          margin-bottom: 4px;
+           
+            }
+
+
+    .Subscribe-btn {
+        margin-left: 405px;
+    margin-top: 14px;
+    border-radius: 5px;
+    }
+          
+            
